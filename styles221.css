@@ -7,7 +7,7 @@ padding:0;
 /* Basic styling */
 body {
   font-family: Arial, sans-serif;
-  background-image: url("file:///C:/Users/sruji/Downloads/shopping/background12.webp");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZoGYWDkRBVwp0kkeVRy6qz5TS8JtKNwcEyw&usqp=CAU");
   background-size: cover;
   background-position: center;
   display:flex;
@@ -17,7 +17,7 @@ body {
 }
 
 h3{
-  color:limegreen;
+  color:Black;
 }
 header{
   display: flex;
@@ -26,7 +26,7 @@ header{
   align-items: center;
   margin-left:200px;
   padding: 40px;
-  background:linear-gradient(#33ccff,#ff99cc);
+  background:linear-gradient(lavender,pink);
   border-radius: 100px;
   width:70%;
   float: left;
@@ -42,7 +42,7 @@ header{
   margin-top:50px;
   max-width: 800px;
   padding: 40px;
-  background:linear-gradient(#33ccff,#ff99cc);
+  background:linear-gradient(white ,rgb(172, 95, 95));
   border-radius: 100px;
 }
 .speaker
@@ -73,7 +73,7 @@ header{
   max-width: 800px;
   padding:40px;
   text-align: center;
-  background:linear-gradient(orange,yellow);
+  background:linear-gradient(pink,rgb(81, 180, 180));
   border-radius:100px;
   width:50%;
   float: right;
